@@ -12,4 +12,4 @@ I am a **data scientist**
 
 ## Projects  
 
-[Project 1](https://medium.com/geoai/house-hunting-the-data-scientist-way-b32d93f5a42f)
+[Project 1: Open data source](https://github.com/BP0323937/msoa_clustering_cold_vulnerability)
