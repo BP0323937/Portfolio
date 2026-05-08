@@ -1,6 +1,5 @@
 ## Population Health Management specialist analyst, and budding data scientist  
 
-<img src="images/portfolio_image.png" width="200" align="right">
 
 Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work.  
 
