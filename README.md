@@ -37,7 +37,7 @@ Studying for Level 6 Data Science Degree
 
 Spatial clustering analysis exploring cold vulnerability patterns using K-Means clustering.
 
-🌐 [Live Project Report](https://bp0323937.github.io/msoa_clustering_cold_vulnerability/)
+🌐 [Project Reports](https://bp0323937.github.io/msoa_clustering_cold_vulnerability/)
 
 💻 [Source Code](https://github.com/BP0323937/msoa_clustering_cold_vulnerability)
 
