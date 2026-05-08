@@ -26,7 +26,9 @@ Studying for Level 6 Data Science Degree
 
 </td>
 
-<td width="45%" valign="top">
+<td width="45%" valign="top">  
+
+<img src="images/portfolio_image.png" width="200" align="right">
 
 ### Projects
 
