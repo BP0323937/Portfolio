@@ -4,10 +4,8 @@
 
 Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work.  
 
-### About me  
+## About me  
 I am **Head of PHM Analytics** at BNSSG Integrated Care Board.  I have been an analyst in the NHS for 24 years, and I have 3 teenage children.  In my spare time I enjoy walking my dogs, Roxy the Labrador and Hazel the Parson's Terrier, as well as Pilates, Yoga and spin cycling.  
-
-
 
 ### Skills  
 -  Able to lead advanced population health analytics to uncover needs, inequalities and service variation  
@@ -18,18 +16,14 @@ I am **Head of PHM Analytics** at BNSSG Integrated Care Board.  I have been an a
 -  Able to collaborate with stakeholders across the system to shape analytical questions and support decision-making
 -  Ability to provide technical leadership, promoting best practice and developing analytical capability
 
-
-
-
-## Education  
+### Education  
 Bsc Honours in Psychology  
 PG Diploma in Public Health  
 Studying for Level 6 Data Science Degree
 
 ## Projects  
 
-
-## MSOA Cold Vulnerability Clustering
+### MSOA Cold Vulnerability Clustering
 
 Spatial clustering analysis exploring cold vulnerability patterns using K-Means clustering.
 
