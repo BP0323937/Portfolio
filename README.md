@@ -1,4 +1,4 @@
-## Population Health Management specialist analyst, and budding data scientist  
+# Population Health Management specialist analyst, and budding data scientist  
 
 
 Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work.  
