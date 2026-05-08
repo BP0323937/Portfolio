@@ -22,13 +22,32 @@ I am **Head of PHM Analytics** at BNSSG Integrated Care Board.  I have been an a
 
 
 ## Education  
-PG Diploma Public Health  
+Bsc Honours in Psychology  
+PG Diploma in Public Health  
 Studying for Level 6 Data Science Degree
 
 ## Projects  
 
 ### MSOA Cold vulnerability clustering  
-Spatial clustering analysis exploring patterns of cold vulnerability across MSOAs using K-Means clustering.
+<table>
+<tr>
 
-[🌐 Project Report: Open data source](https://bp0323937.github.io/msoa_clustering_cold_vulnerability/)
-[💻 Source Code Repository: Open data source](https://github.com/BP0323937/msoa_clustering_cold_vulnerability)
+<td width="50%" valign="top">
+
+## MSOA Cold Vulnerability Clustering
+
+Spatial clustering analysis exploring cold vulnerability patterns using K-Means clustering.
+
+🌐 [Live Project Report](https://bp0323937.github.io/msoa_clustering_cold_vulnerability/)
+
+💻 [Source Code](https://github.com/BP0323937/msoa_clustering_cold_vulnerability)
+
+</td>
+
+<td width="50%" valign="top">
+
+
+</td>
+
+</tr>
+</table>
