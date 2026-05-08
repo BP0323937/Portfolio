@@ -1,18 +1,11 @@
-<table>
-<tr>
+### Population Health Management specialist analyst, and budding data scientist  
 
-
-<!-- LEFT COLUMN -->
-<td width="60%" valign="top">
-
-<h2 style="font-size:24px; margin-top:0;">
-Population Health Management specialist analyst, and budding data scientist
-</h2>
+<img src="images/portfolio_image.png" width="200" align="right">
 
 Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work.  
 
-### About me  
-I am **Head of PHM Analytics** at BNSSG Integrated Care Board. I have been an analyst in the NHS for 24 years, and I have 3 teenage children.  In my spare time I enjoy walking my dogs, Roxy the Labrador and Hazel the Parson's Terrier, as well as Pilates, Yoga and spin cycling.  
+## About me  
+I am **Head of PHM Analytics** at BNSSG Integrated Care Board.  I have been an analyst in the NHS for 24 years, and I have 3 teenage children.  In my spare time I enjoy walking my dogs, Roxy the Labrador and Hazel the Parson's Terrier, as well as Pilates, Yoga and spin cycling.  
 
 ### Skills  
 -  Able to lead advanced population health analytics to uncover needs, inequalities and service variation  
@@ -26,30 +19,14 @@ I am **Head of PHM Analytics** at BNSSG Integrated Care Board. I have been an an
 ### Education  
 Bsc Honours in Psychology  
 PG Diploma in Public Health  
-Studying for Level 6 Data Science Degree  
+Studying for Level 6 Data Science Degree
 
-</td>
-
-
-<!-- RIGHT COLUMN -->
-<td width="40%" valign="top" align="center">
-
-<img src="images/portfolio_image.png" width="160"
-style="border-radius:12px; margin-bottom:15px;">
-
-## Projects
+## Projects  
 
 ### MSOA Cold Vulnerability Clustering
 
 Spatial clustering analysis exploring cold vulnerability patterns using K-Means clustering.
 
-🌐 [Project Report](https://bp0323937.github.io/msoa_clustering_cold_vulnerability/)  
+🌐 [Project Reports](https://bp0323937.github.io/msoa_clustering_cold_vulnerability/)
+
 💻 [Source Code](https://github.com/BP0323937/msoa_clustering_cold_vulnerability)
-
-</td>
-
-</tr>
-</table>
-
-
-
