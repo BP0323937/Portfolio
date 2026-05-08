@@ -1,11 +1,14 @@
-# Population Health Management specialist analyst, and budding data scientist  
+<table>
+<tr>
 
-<img src="images/portfolio_image.png" width="200" align="right">
+<td width="55%" valign="top">
+
+### Population Health Management specialist analyst, and budding data scientist  
 
 Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work.  
 
-## About me  
-I am **Head of PHM Analytics** at BNSSG Integrated Care Board.  I have been an analyst in the NHS for 24 years, and I have 3 teenage children.  In my spare time I enjoy walking my dogs, Roxy the Labrador and Hazel the Parson's Terrier, as well as Pilates, Yoga and spin cycling.  
+### About me  
+I am **Head of PHM Analytics** at BNSSG Integrated Care Board. I have been an analyst in the NHS for 24 years, and I have 3 teenage children.  In my spare time I enjoy walking my dogs, Roxy the Labrador and Hazel the Parson's Terrier, as well as Pilates, Yoga and spin cycling.  
 
 ### Skills  
 -  Able to lead advanced population health analytics to uncover needs, inequalities and service variation  
@@ -19,16 +22,24 @@ I am **Head of PHM Analytics** at BNSSG Integrated Care Board.  I have been an a
 ### Education  
 Bsc Honours in Psychology  
 PG Diploma in Public Health  
-Studying for Level 6 Data Science Degree
+Studying for Level 6 Data Science Degree  
 
-## Projects  
+</td>
 
-### MSOA Cold Vulnerability Clustering
+<td width="45%" valign="top">
 
-Spatial clustering analysis exploring cold vulnerability patterns using K-Means clustering.
+### Projects
 
-🌐 [Project Reports](https://bp0323937.github.io/msoa_clustering_cold_vulnerability/)
+<div style="border:1px solid #ddd; padding:12px; border-radius:10px; margin-bottom:12px;">
+<b>MSOA Cold Vulnerability Clustering</b><br><br>
+Spatial clustering analysis using K-Means.<br><br>
+🌐 <a href="https://bp0323937.github.io/msoa_clustering_cold_vulnerability/">Report</a><br>
+💻 <a href="https://github.com/BP0323937/msoa_clustering_cold_vulnerability">Code</a>
+</div>
 
-💻 [Source Code](https://github.com/BP0323937/msoa_clustering_cold_vulnerability)
+</td>
+
+</tr>
+</table>
 
 
