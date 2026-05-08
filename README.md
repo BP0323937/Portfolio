@@ -46,6 +46,7 @@ Spatial clustering analysis exploring cold vulnerability patterns using K-Means 
 
 <td width="50%" valign="top">
 
+## Future Project: Logistic regression: assiciation of second hand smoke with children's respiratory admissions
 
 </td>
 
