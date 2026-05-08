@@ -1,9 +1,13 @@
 <table>
 <tr>
 
-<td width="55%" valign="top">
 
-### Population Health Management specialist analyst, and budding data scientist  
+<!-- LEFT COLUMN -->
+<td width="60%" valign="top">
+
+<h2 style="font-size:24px; margin-top:0;">
+Population Health Management specialist analyst, and budding data scientist
+</h2>
 
 Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work.  
 
@@ -26,22 +30,26 @@ Studying for Level 6 Data Science Degree
 
 </td>
 
-<td width="45%" valign="top">  
 
-<img src="images/portfolio_image.png" width="200" align="right">
+<!-- RIGHT COLUMN -->
+<td width="40%" valign="top" align="center">
 
-### Projects
+<img src="images/portfolio_image.png" width="160"
+style="border-radius:12px; margin-bottom:15px;">
 
-<div style="border:1px solid #ddd; padding:12px; border-radius:10px; margin-bottom:12px;">
-<b>MSOA Cold Vulnerability Clustering</b><br><br>
-Spatial clustering analysis using K-Means.<br><br>
-🌐 <a href="https://bp0323937.github.io/msoa_clustering_cold_vulnerability/">Report</a><br>
-💻 <a href="https://github.com/BP0323937/msoa_clustering_cold_vulnerability">Code</a>
-</div>
+## Projects
+
+### MSOA Cold Vulnerability Clustering
+
+Spatial clustering analysis exploring cold vulnerability patterns using K-Means clustering.
+
+🌐 [Project Report](https://bp0323937.github.io/msoa_clustering_cold_vulnerability/)  
+💻 [Source Code](https://github.com/BP0323937/msoa_clustering_cold_vulnerability)
 
 </td>
 
 </tr>
 </table>
+
 
 
