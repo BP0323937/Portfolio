@@ -28,10 +28,6 @@ Studying for Level 6 Data Science Degree
 
 ## Projects  
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
 
 ## MSOA Cold Vulnerability Clustering
 
@@ -41,16 +37,4 @@ Spatial clustering analysis exploring cold vulnerability patterns using K-Means 
 
 💻 [Source Code](https://github.com/BP0323937/msoa_clustering_cold_vulnerability)
 
-</td>
-
-<td width="50%" valign="top">
-
-## Future Project: Logistic regression: assiciation of second hand smoke with children's respiratory admissions
-
-Coming soon!
-
-</td>
-
-</tr>
-</table>
 
