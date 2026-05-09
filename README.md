@@ -1,5 +1,3 @@
-# Population Health Management specialist analyst, and budding data scientist
-
 <table style="border:none;">
 <tr>
 
