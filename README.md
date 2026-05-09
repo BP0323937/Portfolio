@@ -1,9 +1,9 @@
 # Population Health Management specialist analyst, and budding data scientist
 
-<table>
+<table style="border:none;">
 <tr>
 
-<td valign="top">
+<td valign="top" style="border:none;">
 
 <p>
 Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work.
@@ -11,7 +11,7 @@ Welcome to my portfolio of population health and data science projects developed
 
 </td>
 
-<td width="220" align="right">
+<td width="220" align="right" style="border:none;">
 
 <img src="images/portfolio_image.png"
 width="160"
@@ -21,7 +21,6 @@ style="border-radius:12px;">
 
 </tr>
 </table>
-
 ## About me  
 I am **Head of PHM Analytics** at BNSSG Integrated Care Board.  I have been an analyst in the NHS for 24 years, and I have 3 teenage children.  In my spare time I enjoy walking my dogs, Roxy the Labrador and Hazel the Parson's Terrier, as well as Pilates, Yoga and spin cycling.  
 
