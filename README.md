@@ -3,11 +3,11 @@
 </td>
 
 <td width="220" align="right">
-
+Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work. 
 <img src="images/portfolio_image.png" width="160" style="border-radius:12px;">
 
 </td>
-Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work. 
+
 </tr>
 </table> 
 
