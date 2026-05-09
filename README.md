@@ -1,24 +1,7 @@
-<table style="border:none;">
-<tr>
 
-<td valign="top" style="border:none;">
+<img src="images/portfolio_image.png" width="160" style="float:right; border-radius:12px; margin-left:20px;">
 
-<p>
 Welcome to my portfolio of population health and data science projects developed during my apprenticeship and professional work.
-</p>
-
-</td>
-
-<td width="220" align="right" style="border:none;">
-
-<img src="images/portfolio_image.png"
-width="160"
-style="border:none;">
-
-</td>
-
-</tr>
-</table>  
 
 
 ## About me  
